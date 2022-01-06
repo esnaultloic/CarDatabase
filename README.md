@@ -73,7 +73,7 @@ L'emission de CO2 dépend d'une loi normale (36.2 L/100km) avec un malus de 15% 
 
 ### Points de ventes
 
-Création d'une base de données d'enseignes alimentaires européennes grâce à GeoPy et représentation sur une map grâce à PowerBI :
+Création d'une base de données d'enseignes alimentaires européennes grâce à GeoPy et représentation sur une carte grâce à PowerBI :
 
 <img src="images/PoS2.png" alt="Screen">
 
