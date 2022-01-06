@@ -62,9 +62,11 @@ Le CO2 en fonction de la classe de véhicule :
 ### Parc de poids lourds
 
 Création d'une base de données de poids lourds ayant différentes caractéristiques : 
-- le carburant utilisé (avec 15% de véhicules essence et 85% de véhicules diesel). 
+- le carburant utilisé (avec 15% de véhicules essence et 85% de véhicules diesel)
 - la vitesse du conducteur
 - le chemin choisi(le plus court ou le plus rapide)
+
+
 L'emission de CO2 dépend d'une loi normale (36.2 L/100km) avec un malus de 15% pour les conducteurs "rapides".
 
 <img src="images/PoidsLourds2.png" alt="Screen">
