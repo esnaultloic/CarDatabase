@@ -13,7 +13,7 @@
     <li>
       <a href="https://github.com/esnaultloic/CarDatabase/blob/master/ProjectBICars.pbix">Emission de CO2</a>
     </li>
-    <li><a href="#PoidsLourds">Parc de poids lourds</a>
+    <li><a href="https://github.com/esnaultloic/CarDatabase/blob/master/create_truck.ipynb">Parc de poids lourds</a>
     <li><a href="#PoS">Points de vente</a></li>
     </li>
   </ol>
@@ -49,8 +49,23 @@ Le CO2 en fonction du type de carburant :
 
 <img src="images/CO2Carburant.png" alt="Screen">
 
-Le CO2 en fonctiond de la classe de véhicule :
+Le CO2 en fonction de la classe de véhicule :
 
 <img src="images/CO2Class.png" alt="Screen">
 
+### Parc de poids lourds
+
+Création d'une base de données de poids lourds ayant différentes caractéristiques : 
+- le carburant utilisé (avec 15% de véhicules essence et 85% de véhicules diesel). 
+- la vitesse du conducteur
+- le chemin choisi(le plus court ou le plus rapide)
+L'emission de CO2 dépend d'une loi normale (36.2 L/100km) avec un malus de 15% pour les conducteurs "rapides".
+
+<img src="images/PoidsLourds.png" alt="Screen">
+
+### Points de ventes
+
+Création d'une base de données d'enseignes alimentaires européennes grâce à GeoPy et représentation sur une map grâce à PowerBI :
+
+<img src="images/PoS.png" alt="Screen">
 
