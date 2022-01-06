@@ -41,6 +41,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 La première partie étape était d'analyser l'emission de CO2 de différents véhicules personnels à l'aide de Power BI.
 
+Pour cela nous avons une base de données de véhicules avec différentes caractéristiques :
+
+La taille du moteur, la classe du véhicule, le nombre de cylindrés, le type de carburant et l'emission de CO2
+
+<img src="images/VehiculePerso.png" alt="Screen">
+
 Nous avons d'abord le CO2 en fonction du nombre de cylindré :
 
 <img src="images/CO2Cylinder.png" alt="Screen">
